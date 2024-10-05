@@ -32,4 +32,4 @@ Other:	Powerpoint, SAP REFX, SAP FI, Thaler, Isabel, Yardi, Innervision <br />
 <a href="https://linkedin.com/in/willems-jonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willems-jonas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jonas_willems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jonas_willems" height="30" width="40" /></a>
 </p>
-- 📫 How to reach me **willems.jonas01 at gmail dot com**
+- 📫**willems.jonas01 at gmail dot com**
