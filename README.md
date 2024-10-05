@@ -2,29 +2,29 @@
 <h3 align="center">Data and Analytics Consultant from Belgium</h3>
 
 # Work experience
-Experienced Project Consultant with a demonstrated history of working on various data projects in the financial services industry. 
-Skilled in Data analysis, Data governance & management, Finance (AP/AR/GL/Controlling), Banking, Credit (risk) Analysis and regulatory reporting (Solvency II, IFRS16).
+Experienced Project Consultant with a demonstrated history of working on various data projects in the financial services industry.  <br />
+Skilled in Data analysis, Data governance & management, Finance (AP/AR/GL/Controlling), Banking, Credit (risk) Analysis and regulatory reporting (Solvency II, IFRS16). <br />
 
 # Education
-Master of Science in Applied Economics at KU Leuven | 2017
-Bachelor of Science in Applied Economics at KU Leuven | 2015
+Master of Science in Applied Economics at KU Leuven | 2017 <br />
+Bachelor of Science in Applied Economics at KU Leuven | 2015 <br />
 
 # Certifications
-Certified Data Management Specialist (CDMP) by DAMA (DMBOK) | 2024
-Tableau Data Analyst | 2022
-RPA Automation Anywhere Business Analyst certified | 2021
-RPA UiPath Business Analyst certified | 2021
-Chartered Financial Analyst (CFA) Level 1 Candidate at CFA Institute | 2020
+Certified Data Management Specialist (CDMP) by DAMA (DMBOK) | 2024 <br />
+Tableau Data Analyst | 2022 <br />
+RPA Automation Anywhere Business Analyst certified | 2021 <br />
+RPA UiPath Business Analyst certified | 2021 <br />
+Chartered Financial Analyst (CFA) Level 1 Candidate at CFA Institute | 2020 <br />
 
-# System knowledge
-Data:	
-      ETL & analysis: SAS Enterprise Guide, SAS Base, Oracle SQL Developer
-      Programming languages: Python, VBA, SQL
-      Data visualization/BI tools: Tableau (desktop, online and server), Qlikview, Power BI
-      Data quality/governance tools: Collibra
-      Data platforms: Teradata
-CPM:	Excel
-Other:	Powerpoint, SAP REFX, SAP FI, Thaler, Isabel, Yardi, Innervision
+# System knowledge <br />
+Data:	<br />
+      ETL & analysis: SAS Enterprise Guide, SAS Base, Oracle SQL Developer <br />
+      Programming languages: Python, VBA, SQL <br />
+      Data visualization/BI tools: Tableau (desktop, online and server), Qlikview, Power BI <br />
+      Data quality/governance tools: Collibra <br />
+      Data platforms: Teradata <br />
+CPM:	Excel <br />
+Other:	Powerpoint, SAP REFX, SAP FI, Thaler, Isabel, Yardi, Innervision <br />
 
 
 <h3 align="left">Connect with me:</h3>
